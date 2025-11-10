@@ -7,7 +7,7 @@ It detects objects in images or videos and counts how many of each type appear.
 - Counts detected objects in each frame
 - Supports both image and video input
 - Can be extended for custom datasets or camera feeds
-- Works with YOLO / OpenCV / TensorFlow (depending on your setup)
+- Works with YOLO / OpenCV / TensorFlow 
 
 ## Tech Stack
 - Python 3.13  
